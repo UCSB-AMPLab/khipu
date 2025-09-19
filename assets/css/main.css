@@ -33,13 +33,13 @@ html, body {
   left: 0;
   height: 100%;
   width: 100%;
-  background-image: url("../images/moravia.jpg");
+  background-image: url("../images/DSC_0830.webp");
   background-size: 185%;
   background-position: center;
   background-repeat: no-repeat;
   background-color: rgba(0, 0, 0,1);
   z-index: 0;
-  opacity: 0.5;
+  opacity: 0.55;
   background-position-x: 16%;
   background-position-y: 28%;
   }

@@ -18,14 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: My Storytelling Site
+title: Andean Object Stories
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/weaving_history" # si estás en GitHub Pages
-url: "https://github.com/up-in-the-clouds.io" # the base hostname & protocol for your site, e.g. http://example.com
+  How can we learn from things? What stories do they tell us about the past? This digital exhibit series tells stories from works in the Andean Region of South America now in UC Santa Barbara's Art, Architecture, and Design Museum.
+baseurl: "/khipu" # si estás en GitHub Pages
+url: "https://github.com/UCSB-AMPLab.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username: jekyll
 

@@ -14,9 +14,19 @@ permalink: /about/
 
   <section class="section-padding mt-5">
     <div class="container">
-      <p>Neque nisi fames ut lorem ac vitae velit amet turpis. Morbi at arcu nulla rutrum. Amet integer mauris nisl vivamus eu fringilla donec dignissim commodo...</p>
-      <p>Pulvinar duis eget id diam viverra urna amet pellentesque. Scelerisque metus a id lacinia. Vitae potenti vivamus orci leo turpis quis...</p>
-      <p>Gravida mi nibh ligula volutpat tincidunt pretium. Tellus mauris vulputate sed egestas...</p>
+    <h4 class="mt-5">Contributors</h4>
+      <p>Alicia Boswell, Alida Jekabson, Jeff O'Brien, Izzy Devlin, Xuewei Luo, Kylie Hamuel</p>
+      <h4 class="mt-5">Funding</h4>
+      <p>UCSB Area Global Initiative</p>
+      <h4 class="mt-5">Thank yous</h4>
+      <p>Richard George, Susan Lucke, Gabe Ritter & AD&A Museum, UCSB Archive, Memory & Preservation Lab, Andrew Jacobs & Avalon Labs</p>
+      <h4 class="mt-5">References</h4>
+      <p>Hyland, Sabine. “How Khipus Indicated Labour Contributions in an Andean Village: An Explanation of Colour Banding, Seriation and Ethnocategories.” <i>Journal of Material Culture</i> 21, no. 4 (2016): 490–509; </p>
+      <p>Hyland, Sabine, Kit Lee, Hannah Koon, Sanna Laukkanen, and Luke Spindler. “Stable Isotope Evidence for the Participation of Commoners in Inka Khipu Production.” <i>Science Advances</i> 11, no. 33 (2025): </p>
+      <p>Khosla, Ashok. <a href="https://www.khipufieldguide.com/" target="_blank">"Khipu Field Guide,"</a> open source repository. 
+      </p>
+      <p>
+<a href="https://www.doaks.org/visit/museum/exhibitions/past/written-in-knots/written-in-knots-catalogue" target="_blank">“Written in Knots: Undeciphered Accounts of Andean Life."</a> Exhibition catalogue, Dumbarton Oaks Museum, April 2 - August 18, 2019</p>
       </div>
     </section>
 

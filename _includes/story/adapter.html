@@ -1,8 +1,8 @@
-{%- comment -%} Adapter: renders one story row from _data/story.json Outputs: •
-Scrolling step (step.html) • Layer 1 offcanvas (panel-primary.html) • Layer 2
-stacked panel (panel-secondary.html) Assumptions: - row has: id, question,
-answer, view, x, y, zoom - row.media (optional): { type, src, width, height,
-start } - row.layer1 / row.layer2 (optional): { title, text, media } {%-
+{%- comment -%} Adapter: renders one story row from _data/khipu_story.json
+Outputs: • Scrolling step (step.html) • Layer 1 offcanvas (panel-primary.html) •
+Layer 2 stacked panel (panel-secondary.html) Assumptions: - row has: id,
+question, answer, view, x, y, zoom - row.media (optional): { type, src, width,
+height, start } - row.layer1 / row.layer2 (optional): { title, text, media } {%-
 endcomment -%} {%- assign row = include.row -%} {%- assign step_id = 'step' |
 append: row.id -%} {%- assign panel1_id = 'panel-' | append: row.id | append:
 '-1' -%} {%- assign panel2_id = 'panel-' | append: row.id | append: '-2' -%} {%-

@@ -1,6 +1,7 @@
 ---
-title: "Leaflet Test"
+title: "What is a Khipu"
 layout: story
+permalink: khipu
 ---
 
 <div class="container-fluid px-0">
@@ -10,7 +11,7 @@ layout: story
     <div class="col-auto d-none d-lg-block position-relative">
       <nav id="story-scrollspy" class="position-fixed start-0 top-25 ps-3">
         <ul class="nav flex-column">
-          {%- assign rows = site.data.story -%}
+          {%- assign rows = site.data.khipu_story -%}
           {%- for row in rows -%}
             <li class="nav-item">
               <a class="nav-link small text-muted" href="#step{{ row.id }}">●</a>
@@ -28,7 +29,7 @@ layout: story
          data-bs-offset="100"
          tabindex="0">
       <div class="steps-container">
-        {%- for row in site.data.story -%}
+        {%- for row in site.data.khipu_story -%}
           {%- include story/adapter.html row=row -%}
         {%- endfor -%}
       </div>

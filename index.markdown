@@ -8,14 +8,13 @@ layout: page
 <section class="hero d-flex flex-column justify-content-center align-items-center text-center py-5">
   <div class="hero-bg"></div>
   <div class="hero-content container px-4 px-lg-5">
-    <h1 class="hero-title mb-2">Weaving Histories</h1>
-    <p class="hero-subtitle text-muted mb-4">Digital Storytelling Tool</p>
+    <h1 class="hero-title mb-2">Andean Object Stories</h1>
+    <p class="hero-subtitle text-muted mb-4">Researching Stories through THINGS</p>
     <p class="hero-intro mx-auto mb-5" style="max-width: 720px;">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua...
+      How can we learn from things? What stories do they tell us about the past? This digital exhibit series tells stories from works in the Andean Region of South America now in UC Santa Barbara's Art, Architecture, and Design Museum. 
     </p>
     <div class="d-flex flex-column flex-md-row justify-content-center gap-3">
-      <a href="{{ '/stories/' | relative_url }}" class="btn btn-info btn-lg px-4 fw-bold">Explore Stories</a>
-      <a href="{{ '/collection/' | relative_url }}" class="btn btn-dark btn-lg px-4 fw-bold">Visit Archive</a>
+      <a href="{{ '/khipu' | relative_url }}" class="btn btn-light btn-lg px-4 fw-bold">Explore</a>
     </div>
   </div>
 </section>

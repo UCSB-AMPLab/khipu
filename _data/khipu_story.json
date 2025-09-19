@@ -1,0 +1,158 @@
+[
+  {
+    "id": 1,
+    "question": "When you see this khipu (key-pu) what do you notice? What can we learned from it?",
+    "answer": "Take a close look at this khipu (key-pu), now in the AD&A Museum at UC Santa Barbara. At first glance, this khipu may appear to be a tangled grouping of fiber cords yet it is a recording device made of fibers and knots used by the people of South America. Analysis of the khipu, its materials, organization of cords, knots, and technical studies such as radiocarbon dating tells us about the information contained in this khipu, this khipu’s story and how it served Andean peoples. (mention all the types of analysis, which the reader will learn more about in other part of the exhibition)",
+    "view": "map",
+    "media": {
+      "type": "map-image",
+      "src": "/assets/images/01.jpg",
+      "width": 2948,
+      "height": 1968
+    },
+    "x": 977,
+    "y": 598,
+    "zoom": 0,
+    "pins": [],
+    "layer1": {
+      "title": "What is a khipu?",
+      "text": "Khipus or fiber recording devices have been used for more than a thousand years in the central Andes (what today is Perú) however their function, structure and significance has changed over time. The earliest known khipus were used by the Wari culture in the 8th century CE. It is under the Inka empire in the 15th century that the first indication of a standardized khipu form began to be used. \n\nHowever, there are major gaps in modern knowledge about how khipus operated. The Spanish, arriving in the 16th century paid little attention to khipus, and in many places forced the abandonment of this practice along with moving many peoples from their traditional lands and attempted suppression of Indigenous ideas.  Modern researchers have relied on Colonial sources and the few communities in the mountains of the Andes who have continued to use khipus for different purposes to better understand the information contained in khipu and their meaning to Andean peoples. Colonial sources inform us that khipus were created by khipucamayocs under the Inka empire, suggesting this was a specialized skill. Recent research suggests that more people may have kept khipus during the Inka empire than previously thought.",
+      "media": "/assets/images/02.jpg"
+    },
+    "layer2": {
+      "title": "About this study",
+      "text": "Despite many years in the AD&A Museum's collection, the khipu had not formally been studied. In this project we undertook study of the khipu to learn its object history and try to understand when and how it may have been used - as well as inform others about its existence. We have shared our information with the Khipu Field Guide which maintains an open access database of studied khipus across the world. ",
+      "media": null
+    }
+  },
+  {
+    "id": 2,
+    "question": "Where is this khipu from? How did it arrive at UC Santa Barbara? ",
+    "answer": "The AD&A khipu's provenance or its object history has large gaps. Radiocarbon dating indicates the khipu was created between 1500 and 1632 somewhere in the Inka Empire. It became part of the collection of the Art, Design and Architecture (AD&A) Museum at UC Santa Barbara in 1966. Explore this online exhibition to learn more about how to read khipu, and the various methods of analysis used to study and interpret khipu.",
+    "view": "map",
+    "media": {
+      "type": "map-image",
+      "src": "/assets/images/03.webp",
+      "width": 6016,
+      "height": 4016
+    },
+    "x": 1177,
+    "y": 697,
+    "zoom": 0,
+    "pins": [],
+    "layer1": {
+      "title": "Khipu Provenance",
+      "text": "The khipu was collected by Dr. Thomas Harper Goodspeed, a botanist at UC Berkeley, who undertook six scientific expeditions to Peru & Chile in the 1930s and ‘40s. The expeditions were part of Goodspeed’s research on indigenous plants from Peru. Goodspeed likely acquired the khipu and other parts of his collection during an expedition. ",
+      "media": "/assets/images/04.webp"
+    },
+    "layer2": {
+      "title": "Physical study, prep for KFG",
+      "text": "He also collected ancient ceramic and textile objects that represented indigenous plant life in the Andes, such as the vessel pictured here. There is little available information about where Goodspeed acquired these objects. After Goodspeed’s death in 1966, his children donated their father’s entire collection to the newly formed “Art Galleries” at UCSB, contributing to the early development of the collection. Several years later, the Galleries became the Art, Design & Architecture Museum.",
+      "media": "/assets/images/05.jpg"
+    }
+  },
+  {
+    "id": 3,
+    "question": "How do we read a khipu? ",
+    "answer": "Today we are accustomed to written words, numbers, and books to share stories, accounting, and census information. To understand khipus, we need to first familiarize ourselves with its different cordage features. Khipus are made with natural materials most often fibers, such as cotton or camelid wool. Interact with the image to learn more about its main features, cord and knot types. Information coding in khipus begins with the construction of the cords.",
+    "view": "map",
+    "media": {
+      "type": "map-image",
+      "src": "/assets/images/06.webp",
+      "width": 1367,
+      "height": 2048
+    },
+    "x": 1124,
+    "y": 639,
+    "zoom": 0,
+    "pins": [
+      "1150|706|The primary cord contains minimal knots, aside from the kayte knot. Hanging from the primary cords are pendant cords, which can be 'read' by counting the knots on each cord. Reading from left to right, this knot indicates the 'beginning' of the khipu, and might also tell us something about the subject matter recorded by the khipu.",
+      "1163|509|Hanging from the primary cord are pendant cords. Often pendant cords have additional cords attached to them called subsidiary cords.",
+      "970|698|Three different types of knots have been tied along pendant and subsidiary cords that signify specific numerical values. The numerical value of the knot is based on how it is tied and where the knot is placed on the pendant cord. Knots tied higher on the pendant cord have a value that is multiple of 10, and knots placed lower on the pendant cord have a value of 1 through 9.",
+      "1115|791|Cord clusters are recognized based on gaps between cords on the primary cord."
+    ],
+    "layer1": {
+      "title": "Khipu Features, knots & counting",
+      "text": "The attachment and organization of the pendant cords of the khipu on the primary, or main cord, is intentional and organized. 20th and 21st century oral histories from Andean highland community members indicate how. These accounts tell us that the different clusters of knots and the variation of colored cords is a means to record the contributions of specific allyu, or communities in a certain area. There is also likely significance of the different colors of cordage, including the multi-colored, or mottled cords. Watch the videos below to learn more about different knot types on khipu and how they are created.\n\n{{youtube:unkVyxbuYKw?si=Trz1SsV2fQaL1tFA}}\n{{youtube:dkpAY-wmjoc}}\n{{youtube:enDhXD60Omo}}\n\nAll three knot types are tied by wrapping loops around a finger. Single knots are created by looping a cord around the index finger, passing the running end of the cord through the loop, and then pulling the loop tight after it’s been removed from the finger. Long knots are made in a very similar fashion. The key difference is that multiple loops would be wrapped around the finger in the first step, rather than only a single loop. The number of loops corresponds to the numerical value of the long knot. The figure eight knot once again begins with a loop around the index finger, but this time, the second loop is created by crossing the running end back over the first loop instead of wrapping it beside the first loop as would be done in a long knot. When the running end is passed through the first loop again, the two loops form a figure eight. [ADD photo] Counting the cords on a khipu means looking at knot types as well as where the knots are placed on a cords. The upper section of a khipu cord contains only single knots, which represent values in multiples of 10. The lower section of the cord consists of figure eight and long knots. Figure eight knots denote a value of 1, and long knots denote values 2 through 9. The values in the upper and lower registers on a cord are added together to get the value of the cord as a whole. For example, this cord from the UCSB khipu can be read as having a value of 44 since it has 4 single knots in the upper register and a 4 long knot in the lower register.",
+      "media": "/assets/images/07.webp"
+    },
+    "layer2": {
+      "title": "Materials and More",
+      "text": "Materials in Khipus: Khipu from the late Inka and early colonial era are made of natural materials, including natural fibers, like cotton, and natural dyes. These dyes are sourced from roots, minerals, and other plant life in the Andes. Another unique material sometimes found in this khipu is human hair. Within many Andean cultural traditions, hair holds a symbolic importance. According to new research in anthropology, the presence of hair in khipu cords is likely from the khipukamaoq, or maker of the khipu and, or individuals connected to the information in the khipu.\nSpin direction and Ply: Spin direction and Ply: Based on the direction they are plied, cords have an S or Z spin.The spin direction and ply of the cords can denote additional meaning to what is encoded on each cord through knots and placement. Cords are created by first spinning the material–often cotton or wool–in one direction to create a single strand. Next, 2+ single strands are wrapped, or “plied,” together in the opposite direction to form the finished cord. Using 2 singles is most common, but more than 2 can be plied together, as is the case with the 3-ply primary cord on the khipu at UCSB. Khipu cords can either be classified as having an S or Z ply. An S-plied cord is made of single strands that are spun clockwise (Z-spun). The Z-spun singles are then plied counterclockwise to create the S-plied cord. The inverse is true of Z-plied cords.",
+      "media": "/assets/images/08.webp"
+    }
+  },
+  {
+    "id": 4,
+    "question": "How do we read UCSB's AD&A Khipu?",
+    "answer": "Close study of the khipu suggests it was used as a census and possible tributary recording during the Inka or early Colonial period. Composed of brown and cream colored cotton, some mottled, the khipu was mounted to a canvas backing in the reverse, showing us the “back” of the object. ",
+    "view": "map",
+    "media": {
+      "type": "map-image",
+      "src": "/assets/images/01.jpg",
+      "width": 2948,
+      "height": 1968
+    },
+    "x": 1155,
+    "y": 532,
+    "zoom": 0,
+    "pins": [],
+    "layer1": {
+      "title": "Interpreting the Khipu",
+      "text": "Analysis of the khipu at UCSB identified 97 pendant cords and 37 subsidiary cords in 9 clusters.  These 9 clusters of cords may have recorded census and tribute information related to different communities. Looking closely, some of the clusters contain many knots and knot types, while the cords in other clusters have fewer knots, or none at all. This speaks to the continual use and re-use of khipu to record and update information. Explore the khipu further by viewing a 3D scan of the khipu here.\n\n{{sketchfab:ebd5572964da4083909dfda31fcac062}}\n\n\n\nGiven its physical complexity, creating a 3D model of the khipu was a process of trial and error. The goal was to preserve as much knot and cord detail as possible, but conventional 3D scanners initially had trouble capturing that much detail on such a small scale. Our scanner had trouble differentiating between the khipu and the board it is mounted on. Essentially, the scanner thinks of the khipu and the board as one object. With other objects, we could flip the object to scan the backside and then merge the models, but because the khipu is mounted to the board, this is not possible here. This means that we can capture a high-quality scan of the exposed side of the khipu, but not the side facing the board.\n\nThe scanning process itself was long and required numerous passes over the khipu due to the dense clustering of cords. One cord is packed with topographical information, which the scanner detects. The twists and turns of the spun cords and complex knots create innumerable peaks and valleys for the scanner to process. When these cords are viewed together, the amount of information that the scanner has to work with is enormous.",
+      "media": "/assets/images/09.webp"
+    },
+    "layer2":null
+  },
+  {
+    "id": 5,
+    "question": "Studying a Khipu (technical analysis-carbon dating)",
+    "answer": "Radiocarbon dating informs us that this khipu was in use between 1502-1643, a period of time that encompasses both the Inca empire and the early colonial period.  We took small samples of about 5 mg from two cords, the primary cord and a pendant cord for radiocarbon dating. See where we took the samples from in the photo.",
+    "view": "map",
+    "media": {
+      "type": "map-image",
+      "src": "/assets/images/10.webp",
+      "width": 2048,
+      "height": 1367
+    },
+    "x": 818,
+    "y": 763,
+    "zoom": 0,
+    "pins": [
+      "1200|555|A sample was taken from the end of the primary cord, opposite the kayte knot. (A reminder this khipu is mounted backwards). This sample's radiocarbon age was 350 ±20 BP - calibrating the C14 age with the radiocarbon curve for South America provides the range of 1502-1643 (95% confidence)",
+      "1157|742|A sample was taken from a pendant cord that is part of a cluster of dark brown cotton cords. This sample's radiocarbon age was 350 ±20 BP - calibrating the radiocarbon age with the C14 curve for South America gives us the range of 1502-1643 (95% confidence)"
+    ],
+    "layer1": {
+      "title": "Radiocarbon Dating",
+      "text": "Both samples yielded the same date. Radiocarbon dating determines the measurement of carbon-14, radioactive isotope of carbon in organisms. All living organisms absorb carbon-14 until death, when it begins to decay at a constant rate. Scientists can measure the amount of radiocarbon in an organism from a very small sample of that organism – in the case of the khipu we removed 5 mg of cotton for samples -  and then use a calibration curve to determine what calendar year range it dates to. Radiocarbon calibration curves, there is one for the northern hemisphere and another for the southern hemisphere are developed from known ages – tree rings have been an important source for developing calibration curves as most trees attain a tree ring every year of their life, allowing for the determination of the tree’s age along with the amount of radiocarbon. This information is compiled to create calibration curves, offering a range of years in which the sample may date to. ",
+      "media": "/assets/images/11.jpg"
+    },
+    "layer2": null
+  },
+  {
+    "id": 6,
+    "question": "Seeing beyond the spectral: Ultraviolet and Hyperspectral analysis",
+    "answer": "Ultraviolet (UV) light analysis can reveal features of a khipu invisible in normal lighting, but what hidden stories emerge when we look beyond what our eyes can see? Hyperspectral analysis of a 16th-century khipu allows one to potentially detect subtle variations in dyes, fibers, and residues that are invisible to the naked eye. This non-invasive method provides new insights into the artifact’s materials, construction, and use, deepening understanding of its historical and cultural significance. See what we learned when performing this analysis.",
+    "view": "map",
+    "media": {
+      "type": "map-image",
+      "src": "/assets/images/12.webp",
+      "width": 2048,
+      "height": 1668
+    },
+    "x": 854,
+    "y": 787,
+    "zoom": 0,
+    "pins": [],
+    "layer1": {
+      "title": "Technical Imaging",
+      "text": "Under UV, certain dyes, fibers, and residues fluoresce, exposing wear, repairs, or materials undetectable to the naked eye. This non-invasive method helps distinguish original components from later additions, offering clues to the khipu’s age, use, and history while safeguarding this fragile Andean artifact. The human eye perceives only a visible spectrum of approximately 380 to 1000 nanometers in wavelength. What more can one uncover if we could see beyond these limits? Hyperspectral imaging records data across narrow spectral bands, extending into ultraviolet and infrared ranges invisible to us. Applied to a khipu, it can reveal minute dye variations, fiber types, surface residues, and signs of repair, yielding precise, non-invasive insights into its materials, construction, and cultural history. Performing these two forms of technical analysis on this Khipu, however, offered little insight beyond what is initially observable. Here, we offer two Hyperspectral images: one at 380 nanometers, and one at 1000 nanometers. What do you see?",
+      "media": "/assets/images/13.jpg"
+    },
+    "layer2": {
+      "title": null,
+      "text": "[Link to shared folder of images from UV and Hyperspectral analysis]",
+      "media": null
+    }
+  }
+]
