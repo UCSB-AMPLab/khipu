@@ -1,0 +1,97 @@
+<!-- _includes/story/step.html -->
+<section
+  class="step"
+  id="{{ include.id }}"
+  data-step="{{ include.data_step }}"
+  data-x="{{ include.x }}"
+  data-y="{{ include.y }}"
+  data-zoom="{{ include.zoom }}"
+  {%
+  if
+  include.media_type
+  %}
+  data-media-type="{{ include.media_type }}"
+  {%
+  endif
+  %}
+  {%
+  if
+  include.media_src
+  %}
+  data-media-src="{{ include.media_src }}"
+  {%
+  endif
+  %}
+  {%
+  if
+  include.media_width
+  %}
+  data-media-width="{{ include.media_width }}"
+  {%
+  endif
+  %}
+  {%
+  if
+  include.media_height
+  %}
+  data-media-height="{{ include.media_height }}"
+  {%
+  endif
+  %}
+  {%
+  if
+  include.media_start
+  %}
+  data-media-start="{{ include.media_start }}"
+  {%
+  endif
+  %}
+  {%
+  if
+  include.pin1
+  %}
+  data-pin1="{{ include.pin1 | escape }}"
+  {%
+  endif
+  %}
+  {%
+  if
+  include.pin2
+  %}
+  data-pin2="{{ include.pin2 | escape }}"
+  {%
+  endif
+  %}
+  {%
+  if
+  include.pin3
+  %}
+  data-pin3="{{ include.pin3 | escape }}"
+  {%
+  endif
+  %}
+  {%
+  if
+  include.pin4
+  %}
+  data-pin4="{{ include.pin4 | escape }}"
+  {%
+  endif
+  %}
+>
+  <h4>{{ include.title }}</h4>
+  <p>{{ include.text }}</p>
+
+  {% if include.offcanvas_id %}
+  <button
+    type="button"
+    class="btn btn-outline-dark mt-4"
+    data-bs-toggle="offcanvas"
+    data-bs-target="#{{ include.offcanvas_id }}"
+    aria-controls="{{ include.offcanvas_id }}"
+    data-bs-backdrop="false"
+  >
+    More info
+  </button>
+  {% endif %}
+</section>
